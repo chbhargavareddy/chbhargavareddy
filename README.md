@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=chbhargavareddy&label=Profile%20views&color=0e75b6&style=flat" alt="chbhargavareddy" />
 </p>
 
-- 🔭 I’m currently working on Salesforce workbench re-imagined
+- 🔭 I’m currently working on GEN AI
 
 - 🌱 I’m currently learning **React.JS**
 
